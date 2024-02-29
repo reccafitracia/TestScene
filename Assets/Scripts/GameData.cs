@@ -15,6 +15,7 @@ public class GameData
         if (CurrentScore > HighScore)
         {
             HighScore = CurrentScore;
+            //test dummy
         }
     }
 
